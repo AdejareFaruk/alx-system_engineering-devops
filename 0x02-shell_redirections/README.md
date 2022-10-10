@@ -1,1 +1,1 @@
-This scripts shows varipus permissions that can be done in shell
+Shell, I/O Redirections and filters
